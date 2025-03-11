@@ -24,7 +24,8 @@ A modern and responsive portfolio website built using **HTML5, CSS3, JavaScript,
 ---
 
 ## 📌 Sneak Peek of Main Page and Skill Page 🙈  
-
+![Image](https://github.com/user-attachments/assets/168df105-05fd-45cd-a92a-353e5b17f28f)
+![Image](https://github.com/user-attachments/assets/7b42712a-fef9-4f71-98ac-e5fb1a655e10)
 
 ---
 
