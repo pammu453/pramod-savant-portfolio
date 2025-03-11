@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MERN Blog app",
+    "desc": "A MERN-based blog app helps users find and read my blogs",
+    "image": "mern-blog",
+    "links": {
+      "view": "https://blog-oa6h.onrender.com",
+      "code": "https://github.com/pammu453/blogs"
+    }
+  },
+  {
+    "name": "E-Commerce app",
+    "desc": "A MERN-based E-Commerce app helps users find, order products via PayPal",
+    "image": "mern-ecommerce",
+    "links": {
+      "view": "https://whimsical-babka-7d3aa2.netlify.app",
+      "code": "https://github.com/pammu453/proshop"
+    }
+  },
+  {
+    "name": "Real Estate app",
+    "desc": "A MERN-based real estate app helps users find, list, and explore properties efficiently",
+    "image": "mern-real-estate",
+    "links": {
+      "view": "https://savant-estate.onrender.com",
+      "code": "https://github.com/pammu453/real-estate"
+    }
+  },
+  {
+    "name": "MERN Todo app",
+    "desc": "Developed a feature-rich MERN stack Todo App with cloud deployment, showcasing full-stack proficiency.",
+    "image": "todo-app",
+    "links": {
+      "view": "https://652ba75e603f7a4dfe0d1c15--bespoke-jelly-b1c4ae.netlify.app/",
+      "code": "https://github.com/pammu453/mern-todo"
+    }
+  },
+  {
+    "name": "Tour app",
+    "desc": "The MERN Tour app is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js)",
+    "image": "mern-blog-old",
+    "links": {
+      "view": "https://rad-basbousa-7300f5.netlify.app/",
+      "code": "https://github.com/pammu453/Tour-app"
+    }
+  },
+  {
+    "name": "Full stack recipe app",
+    "desc": "The recipe app is a simple application that provides information about the various recipes and video demonstrations.",
+    "image": "mern-recipe-app",
+    "links": {
+      "view": "https://mern-stack-recipe-app.onrender.com",
+      "code": "https://github.com/pammu453/mern-stack-recipe-app"
+    }
+  }
+]
